@@ -7,12 +7,14 @@ Using VBA macros to analyze an entire dataset created to track stocks by the yea
 
 ### Results
 According to the results we see that 2017 perfomed better than 2018 results.
+
 ![2017](./Resources/VBA_Challenge_2017.png)
 
 ![2018](./Resources/VBA_Challenge_2018.png)
 
 ### Sample code Steps
-  -For loop to intialize tickerVolumes.
+
+  - For loop to intialize tickerVolumes.
   - Loop through each row.
   - Assign varible for tickerIndex.
   - Use If Then statements to produce calculated values according to their conditons.
