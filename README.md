@@ -1,9 +1,9 @@
 # stock-analysis
 
-##Module 2: VBA of Wall Street
+## Module 2: VBA of Wall Street
 
 ### Overview of Project
-Using VBA macros to analyze an entire dataset created to track stocks by the year 2017 and 2018. This was done by an macro with a ForLoop that loops through a list of ticker sympols. Additionally after executing this macro we see can how long the code took to execute.
+Using VBA macros to analyze an entire dataset created to track stocks by the year 2017 and 2018. This was done by an macro with a ForLoop that loops through a list of ticker sympols. Additionally after executing this macro we see can how long the code took to execute for code refactoring purposes.
 
 ### Results
 According to the results we see that 2017 perfomed better than 2018 results.
